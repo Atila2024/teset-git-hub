@@ -1,1 +1,2 @@
 print("Senai")
+print("Ola")
